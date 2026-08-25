@@ -1,0 +1,6 @@
+{
+  "name": "Revenue Recovery Autopilot",
+  "description": "AI-powered revenue recovery agent for merchants built for Razorpay Buildathon 2026. Detects revenue at risk, diagnoses failure causes, calculates recovery probability, enforces safety policies, executes Razorpay TEST Mode Payment Links, and tracks proven revenue recovered with audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
